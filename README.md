@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 Certifications
-- Create REST APIs with Spring and Java, July 2024
+- Create REST APIs with Spring and Java, Codecademy, July 2024
