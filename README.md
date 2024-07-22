@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 Certifications
+- Create REST APIs with Spring and Java, July 2024
