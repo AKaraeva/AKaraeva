@@ -1,5 +1,4 @@
 ## Hi there 👋, I'm Ainura :)
-### Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square)
